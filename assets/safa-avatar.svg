@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="サファ">
+  <rect width="200" height="200" rx="100" fill="#F4B942"/>
+  <path d="M40 124c19-42 39-62 60-62s41 20 60 62" fill="#FFF7DF" opacity=".86"/>
+  <circle cx="100" cy="74" r="33" fill="#664719"/>
+  <text x="100" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#664719">SAFA</text>
+</svg>

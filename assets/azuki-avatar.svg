@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="あずきちゃんねる">
+  <rect width="200" height="200" rx="100" fill="#A85D39"/>
+  <path d="M40 126c18-39 38-58 60-58 22 0 42 19 60 58" fill="#FFF7DF" opacity=".92"/>
+  <path d="M67 91c0-30 15-50 33-50s33 20 33 50" fill="#FFF7DF"/>
+  <circle cx="87" cy="72" r="5" fill="#A85D39"/><circle cx="113" cy="72" r="5" fill="#A85D39"/>
+  <text x="100" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#FFF7DF">AZUKI</text>
+</svg>
